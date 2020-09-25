@@ -29,13 +29,13 @@ div.menu ul li a {
     line-height: 44px;
     font-size: 1.4em;
     text-decoration: none;
-    color: rgb(7, 247, 19);
+    color: rgb(32, 0, 68);
     margin: 0;
 }
 
 div.menu ul li a:hover  {
     background-color: rgb(30, 0, 114);
-    color: #03f367;
+    color: #1d014b;
 }
 
 div.hero {
