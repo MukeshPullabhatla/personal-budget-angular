@@ -14,9 +14,13 @@ div.menu .def {
     padding: 0 40px;
 }
 
+div.hero .center {
+    text-align: center;
+}
+
 div.menu {
     width: 100%;
-    background-color: #4d9158;
+    background-color: #a2f7b0;
     height: 44px;
     padding: 0 40px;
 }
