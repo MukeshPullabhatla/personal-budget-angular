@@ -9,7 +9,7 @@ body {
 
 div.menu .def {
     width: 10%;
-    background-color: #4d9158;
+    background-color: #4d9158;/*ally change*/
     height: 40px;
     padding: 0 40px;
 }
@@ -40,14 +40,14 @@ div.menu ul li a {
 }
 
 div.menu ul li a:hover  {
-    background-color: rgb(30, 0, 114);
+    background-color: rgb(30, 0, 114);/*ally change*/
     color: #1d014b;
 }
 
 div.hero {
     height: 350px;
     background-color: #756cee;
-    background-image: url('abc.png');/*Semantic change */
+    background-image: url('abc.png');/*This is A11y change */
     background-size: 1000px;
     background-repeat: no-repeat;
     background-position: center bottom;
