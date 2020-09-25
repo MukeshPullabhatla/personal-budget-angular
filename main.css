@@ -7,6 +7,12 @@ body {
     font-family: Tahoma, Arial;
 }
 
+div.menu .def {
+    width: 10%;
+    background-color: #4d9158;
+    height: 40px;
+    padding: 0 40px;
+}
 
 div.menu {
     width: 100%;
