@@ -42,7 +42,7 @@ div.hero {
     height: 350px;
     background-color: #e3ece3;
     background-image: url('abc.png');
-    background-size: 400px;
+    background-size: 1000px;
     background-repeat: no-repeat;
     background-position: center bottom;
     padding-top: 40px;
