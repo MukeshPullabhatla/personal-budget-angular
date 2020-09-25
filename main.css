@@ -9,7 +9,7 @@ body {
 
 div.menu .def {
     width: 10%;
-    background-color: #4d9158;/*ally change*/
+    background-color: #99ace9;/*ally change*/
     height: 40px;
     padding: 0 40px;
 }
@@ -20,8 +20,8 @@ div.hero .center {
 
 div.menu {
     width: 100%;
-    background-color: #a2f7b0;
-    height: 44px;
+    background-color: #b1b2da;
+    height: 80px;
     padding: 0 40px;
 }
 
@@ -39,18 +39,18 @@ div.menu ul li a {
     line-height: 44px;
     font-size: 1.4em;
     text-decoration: none;
-    color: rgb(32, 0, 68);
+    color: rgb(116, 15, 231);
     margin: 0;
 }
 
 div.menu ul li a:hover  {
-    background-color: rgb(30, 0, 114);/*ally change*/
-    color: #1d014b;
+    background-color: rgb(63, 13, 202);/*ally change*/
+    color: #570bcf;
 }
 
 div.hero {
     height: 350px;
-    background-color: #756cee;
+    background-color: #dfdee6;
     background-image: url('abc.png');/*This is A11y change */
     background-size: 1000px;
     background-repeat: no-repeat;
@@ -65,13 +65,13 @@ div.hero h2 {
 }
 
 div.hero h1 {
-    color: rgb(34, 0, 114);
+    color: rgb(74, 5, 233);
     font-size: 4.2em;
     margin-bottom: 20px;
 }
 
 div.hero h2 {
-    color: #160466;
+    color: #3e18e7;
 }
 
 .container {
@@ -86,7 +86,7 @@ div.hero h2 {
 
 .bottom {
     height: 50px;
-    background-color: #220061;
+    background-color: #5b27bb;
     padding: 40px;
 }
 
