@@ -34,13 +34,13 @@ div.menu ul li a {
 }
 
 div.menu ul li a:hover  {
-    background-color: rgb(37, 252, 9);
+    background-color: rgb(30, 0, 114);
     color: #03f367;
 }
 
 div.hero {
     height: 350px;
-    background-color: #e3ece3;
+    background-color: #756cee;
     background-image: url('abc.png');
     background-size: 1000px;
     background-repeat: no-repeat;
@@ -55,13 +55,13 @@ div.hero h2 {
 }
 
 div.hero h1 {
-    color: rgb(18, 250, 38);
+    color: rgb(34, 0, 114);
     font-size: 4.2em;
     margin-bottom: 20px;
 }
 
 div.hero h2 {
-    color: #0cec31;
+    color: #160466;
 }
 
 .container {
@@ -76,7 +76,7 @@ div.hero h2 {
 
 .bottom {
     height: 50px;
-    background-color: #0bec56;
+    background-color: #220061;
     padding: 40px;
 }
 
