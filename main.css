@@ -24,6 +24,12 @@ div.menu {
     height: 80px;
     padding: 0 40px;
 }
+main{
+    font-size: 1.4em;
+    padding: 0 44px;
+    color: blue;
+    display: :inline-block;
+}
 
 div.menu ul,
 div.menu ul li {
@@ -32,6 +38,11 @@ div.menu ul li {
     list-style: none;
     display: inline-block;
 }
+
+div. style{
+    background-image: "./bg.png";
+}
+
 
 div.menu ul li a {
     display: block;
@@ -77,6 +88,7 @@ div.hero h2 {
 .container {
     padding: 40px;
     width: 100%;
+    
 }
 
 .page-area {
@@ -100,6 +112,14 @@ div.hero h2 {
     max-width: 340px;
     text-align: justify;
     margin: 20px;
+    color: blue;
+}
+p{
+    font-size: 1.4em;
+    color: #3e18e7;
+}
+.bottom{
+    font-size: 1.4em;
 }
 
 @media screen and (min-width: 768px) {
