@@ -31,7 +31,7 @@ main{
     font-size: 1.4em;
     padding: 0 44px;
     color: blue;
-    display: :inline-block;
+    display: inline-block;
 }
 
 div.menu ul,
