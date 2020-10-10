@@ -13,6 +13,8 @@ import { AboutComponent } from './about/about.component';
 import { LoginComponent } from './login/login.component';
 import { P404Component } from './P404/p404.component';
 import { fromEventPattern } from 'rxjs';
+import { BreadcrumbsComponent } from './breadcrumbs/breadcrumbs.component';
+import { ContactComponent } from './contact/contact.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +26,9 @@ import { fromEventPattern } from 'rxjs';
     ArticleComponent,
     AboutComponent,
     LoginComponent,
-    P404Component
+    P404Component,
+    BreadcrumbsComponent,
+    ContactComponent
   ],
   imports: [
     BrowserModule,
